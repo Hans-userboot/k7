@@ -14,7 +14,7 @@ API_ID = int(os.environ.get("API_ID", "11662467"))
 API_HASH = os.environ.get("API_HASH", "325e13dfb76973f4bca9bdae2678bbbe")
 
 CHANNEL_DB = int(os.environ.get("CHANNEL_DB", "-1002048005348"))
-DATABASE_URL = os.environ.get("DATABASE_URL", "postgres://xevyxuyp:wyVlO_veDfpqlW6Ded5WORk1kt_eR4BE@tiny.db.elephantsql.com/xevyxuyp")
+DATABASE_URL = os.environ.get("DATABASE_URL", "postgres://fpksrstd:Tqv2OBDEIV4JIJE45GeXNYBMIS9KbgU8@kandula.db.elephantsql.com/fpksrstd")
 
 RESTRICT = strtobool(os.environ.get("RESTRICT", "True"))
 
